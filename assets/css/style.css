@@ -1,0 +1,15 @@
+.myPhoto{
+    float: left;
+    margin-right: 20px;
+}
+
+.jumbotron{
+    padding: 1.5em;
+}
+
+/* Connect with Me Sidebar */
+.list-group-item {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
