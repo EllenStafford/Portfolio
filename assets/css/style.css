@@ -5,9 +5,15 @@
 
 .jumbotron{
     padding: 1.5em;
+    padding-top: 2em;
 }
 
-/* Connect with Me Sidebar */
+/* Projects */
+.firstCard{
+    margin-top: 1em;
+}
+
+/* Connect with Me */
 .list-group-item {
     font-size: 24px;
     font-weight: bold;
